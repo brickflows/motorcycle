@@ -1,0 +1,17 @@
+# SolidWorks lock and backup files
+~$*
+*.bak
+Backup of *
+
+# Blender backups
+*.blend1
+
+# ANSYS results and solver scratch
+*.rst
+*.db
+*.err
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
