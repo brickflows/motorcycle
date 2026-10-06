@@ -4,7 +4,7 @@ A complete motorcycle modelled part by part in SolidWorks, with my own bodywork 
 
 [![Café Racer Concept: watch the film](media/film/hero.jpg)](media/film/cafe-racer-concept-1080p.mp4)
 
-**[Watch the film (1080p, 23 MB)](media/film/cafe-racer-concept-1080p.mp4)**
+**[Watch the film (1080p, 23 MB)](media/film/cafe-racer-concept-1080p.mp4)** or on **[Watch on YouTube](https://www.youtube.com/watch?v=PtR7k8kXTPk)**
 
 | | |
 |---|---|
