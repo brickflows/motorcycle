@@ -18,7 +18,6 @@ A complete motorcycle modelled part by part in SolidWorks, with my own bodywork 
 | [`cad/`](cad) | SolidWorks source: 217 parts, 41 assemblies and 42 drawings, grouped by subsystem (engine cases, clutch hub, shafts, transmission, wheels, brakes, suspension, lights, bodywork). The top-level assembly is `cad/Assembly/motocycle_assembly1.SLDASM`. |
 | [`cad/assembly drawings/`](cad/assembly%20drawings) | Assembly drawings as SolidWorks drawings and PDFs. |
 | [`simulation/`](simulation) | Geometry used for the frame and output-shaft FEA, and the stress animations exported from ANSYS Mechanical. |
-| [`simulation/aerodynamics/`](simulation/aerodynamics) | A separate CFD study: an inverted wing in ground effect at 11 ride heights in ANSYS Fluent, with geometry, case files, force histories and result plots. |
 | [`media/renders/`](media/renders) | Stills of the sub-assemblies: engine, engine head, clutch hub, crankshaft, wheels, shock absorber, hand brake, mirrors, speedometer. |
 | [`media/animations/`](media/animations) | The full assembly sequence from SolidWorks and a cam-chain motion study. |
 | [`scripts/solidworks/`](scripts/solidworks) | VBA macros that assign materials across the assembly and export every sub-assembly to glTF for Blender. |
