@@ -49,4 +49,4 @@ The Blender scene files, the raw ANSYS result files and the glTF exports are lef
 
 ## Author
 
-Michael, Mechanical Engineering student at the University of Lagos. More work at [mikedoesrobots.com](https://mikedoesrobots.com).
+Micheal Adediran, Mechanical Engineering student at the University of Lagos. More work at [mikedoesrobots.com](https://mikedoesrobots.com).
